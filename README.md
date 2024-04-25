@@ -46,7 +46,7 @@ Chatty is a simple real-time chat application that allows users to register and 
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://example.com/chatty-app.git
+git clone (https://github.com/Felixkabange/loglive.git)
 cd client
 
 ** Development Decisions ** 
